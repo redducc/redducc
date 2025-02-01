@@ -1,6 +1,6 @@
 
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sushmit Rathore!</h2>
 
 - 🌱 I’m a B.Tech student at SRM Institute of Science and Technology, Chennai.
 - 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, Python, kotlin, C++ and Gerrit.
@@ -10,7 +10,7 @@
 - 📫 You can reach me by my email address 'sushmit718@gmail.com'.
 - 📫Lets Connect through <a href="https://www.linkedin.com/in/redducc">LinkedIn</a>, <a href="https://twitter.com/sushmit718">Twitter/X</a> or <a href="https://t.me/redducc">Telegram</a>.
 
-### ⚙️ &nbsp;Saushmit's GitHub Analytics
+### ⚙️ &nbsp;Sushmit's GitHub Analytics
 <p align="center">
 <a href="https://github.com/redducc">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=redducc&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>

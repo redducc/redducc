@@ -2,7 +2,6 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sushmit Rathore!</h2>
 
-- 🌱 I’m a B.Tech student at SRM Institute of Science and Technology, Chennai.
 - 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, Python, kotlin, C++ and Gerrit.
 - 💞️ I’m an avid learner interested in Android Development, and Cloud Computing.
 - 👀 I’m interested in Open source projects like AOSP.
